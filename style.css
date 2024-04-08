@@ -1,0 +1,56 @@
+* {
+  color: #ff0000;
+}
+
+h1 {
+  color: forestgreen;
+}
+
+a {
+  text-decoration: none;
+  font-size: 40px;
+  color: red;
+}
+
+h2 {
+  font-size: 50px;
+  color: orange;
+}
+
+ul,
+ol,
+a {
+  list-style: none;
+  text-decoration: none;
+}
+
+.top-left {
+  font-size: 100px;
+  color: blueviolet;
+}
+
+.list {
+  list-style: none;
+}
+
+#img {
+  color: indianred;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+}
+
+.main-heading {
+  width: 700px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
